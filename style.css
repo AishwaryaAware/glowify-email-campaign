@@ -47,11 +47,7 @@ body {
     width: 100% !important;
   }
 }
-.container {
-  max-width: 800px;
-  margin: auto;
-  padding: 20px;
-}
+
 .product {
   margin-top: 20px;
   padding: 20px;
